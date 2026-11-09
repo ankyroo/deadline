@@ -1,0 +1,19 @@
+# Dependencies and generated output
+/node_modules/
+/.next/
+/out/
+/build/
+/.vercel/
+
+# Local environment files and secrets
+.env*
+!.env.example
+
+# Local prototype copy, not part of the Next.js app
+/temp-deadline/
+
+# Local machine files
+.DS_Store
+*.tsbuildinfo
+*.pem
+npm-debug.log*
